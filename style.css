@@ -1,0 +1,33 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+
+h1{
+    font-size: 100px;
+    text-align: center;
+    position: relative;
+    bottom: -100px;
+
+}
+
+#birinci{
+    text-align: center;
+    position: relative;
+    bottom: -120px;
+}
+
+#kutu{
+    text-align: center;
+    position: relative;
+    bottom: -130px;
+
+}
+
+#button, #sans{
+    text-align: center;
+    position:relative;
+    bottom: -125px;
+    
+    
+}
